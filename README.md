@@ -92,6 +92,48 @@ Here are some ideas to get you started:
 </div>
 
 
+## sECTION
+<strong>Nicolas P. Rougier /</strong></pre></p>
+
+I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
+
+Consider supporting my work. Thank you!</b><br/>
+
+<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%">``</img></a>
+
+<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%">``</img></a>
+
+Open access books & journals
+
+- ReScience C A scientific journal dedicated to the publication of computational replications. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rescience/rescience?style=social">
+- Scientific Visualization: Python  Matplotlib, an open access book on scientific visualization.  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social">
+
+Development
+
+- Machine learning recipes Self-contained machine learning Python recipes. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/ML-recipes?style=social">
+- Glumpy is a python library for scientific visualization that is both fast, scalable and beautiful. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/glumpy/glumpy?style=social">
+- VisPy is a high-performance interactive 2D/3D data visualization library. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vispy/vispy?style=social">
+- Matplotlib 3D  provides a better and more versatile 3d axis for Matplotlib. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/matplotlib-3d?style=social">
+- src="https://img.shields.io/github/stars/rougier/elegant-emacs?style=social">
+- SVG lib A library to create and display SVG tags, progress bars and icons. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/svg-lib?style=social">
+- SVG tag mode  An Emacs minor mode to replace keywords or (regex) with SVG rounded box labels. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/svg-tag-mode?style=social">
+- 
+- Org agenda gives an interactive view (whole year) of your agenda in the console. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/agenda?style=social">
+- Get Things Done using org mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/emacs-gtd?style=social">
+
+Art... or Science
+
+    
+
+- Recursive Voronoi Recursive voronoi using shapely, matplotlib and scipy.
+- Pendulum Animated double pendulum using matplotlib.
+- Wind map Animated streamlines using matplotlib.
+- Alien life A remake (using matplotlib) of the beaufitul animation by Necessary Disorder.
+- Anatomy of a figure shows and names the main elements of a matplotlib figure.
+- Calendar heatmap Display your yearly GitHub activity using matplotlib.
+- Less is More A remake of the animation by Darkhorse Analytics (using matplotlib, what else?).
+- 
+- -
 
 
 
