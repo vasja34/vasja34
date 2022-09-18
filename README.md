@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Vadim Moldavsky!
+# Hi there 👋, I'm Vadim M!
 
 <h1 align="center">Hi there 👋, I'm Vadim Moldavsky!</h1>
 
