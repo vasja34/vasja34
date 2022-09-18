@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vasja34/vasja34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there 👋, I'm Vadim Moldavsky!
 
-<h1 align="center">Hi visitor, I'm Vadim Moldavsky!</h1>
+<h1 align="center">Hi there 👋, I'm Vadim Moldavsky!</h1>
 
 <p align="center">
 
