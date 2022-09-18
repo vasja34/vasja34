@@ -66,6 +66,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 
+## Image Demo
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### I've little contribution in:
 
