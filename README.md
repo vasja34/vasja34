@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <a href="https://kasroudra.github.io/" target="_blank">
 
-   
-
 </a>
 
 <br>
