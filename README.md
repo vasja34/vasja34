@@ -96,6 +96,27 @@ Contact me:
 
 
 
+### I've little contribution in:
+
+<a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&label=Star&maxAge=14400"> </a>
+
+<a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio  <img src="https://img.shields.io/github/stars/ashutosh1919/masterPortfolio.svg?style=social&label=Star&maxAge=14400"> </a>
+
+<a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&label=Star&maxAge=14400"> </a>
+
+<a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&label=Star&maxAge=14400"> </a>
+
+<a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&label=Star&maxAge=14400"> </a>
+
+### Contact me:
+
+<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+
+<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+
+<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 
 
