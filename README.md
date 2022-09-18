@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi visitor, I'm KasRoudra!</h1>
+<h1 align="center">Hi visitor, I'm Vadim Moldavsky!</h1>
 
 <p align="center">
 
