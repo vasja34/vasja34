@@ -62,38 +62,9 @@ Here are some ideas to get you started:
 
 <h4 align="center">All of these are open source!</h4>
 
-
-  Name                       	Description                             
-  Repository Readme Generator	Generate a beautiful Readme.md for your repository.
-  MaxPhisher                 	A python script for login phishing, image phishing and more
-  PyPhisher                  	Ultimate phishing tool in python with 77 website templates.
-  VidPhisher                 	Get front camera videos of victim just by opening a link!
-  SupremeFolio               	A clean, beautiful, responsive and 100% customizable portfolio template.
-  CamHacker                  	Hack anyone's camera with a phishing link.
-  Github-Stats               	Generate a card with yout github statistics
-  YT-Downloader              	Download youtube audio or videos from command line.
-  MusPlayer                  	Play music in termux by mpv.            
-  Oh-My-Shell                	Empower your terminal with the might of fish and omf
-  K-Fuscator                 	Encrypt or decrypt shell script and compile python scripts
-  Local2Internet             	Expose locally hosted website into all over internet.
-
-<h4 align="center">All of these are open source!</h4>
-
 <h2 align="center">My Github Stats</h2>
 
 <p align="center">
-
-
-Awesome Github Profile Readme Templates   
-
-Creative Profile Readme   
-
-MaskPhish   
-
-Contact me:
-
-
-
 
 
 ### I've little contribution in:
