@@ -92,7 +92,12 @@ Here are some ideas to get you started:
 </div>
 
 
-## sECTION
+## Section
+<p><pre align="center">
+<strong>Nicolas P. Rougier /</strong></pre></p>
+
+I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.`<br/>`
+
 ### Development
 
 - **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning Python recipes. `<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/ML-recipes?style=social">`
