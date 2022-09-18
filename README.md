@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
+| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.           |
 | _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   |
 | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
 | _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
@@ -93,15 +93,11 @@ Here are some ideas to get you started:
 
 
 ## sECTION
-<strong>Nicolas P. Rougier /</strong></pre></p>
+**Nicolas P. Rougier**
 
 I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
 
-Consider supporting my work. Thank you!</b><br/>
-
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%">``</img></a>
-
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%">``</img></a>
+Consider supporting my work. Thank you!
 
 Open access books & journals
 
