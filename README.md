@@ -84,7 +84,8 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 
 <img src="https://media.giphy.com/media/3oz8xxXI5nS5sCYjXG/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/xTiTngSz6NXoUdNfVK/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/3ohhwHUaQuczKTVuog/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/2FMZ918Q5JX8Y/giphy.gif" width="150px" height="150px" >
 
-<!--<img src="https://media.giphy.com/media/3oKIPyahvBic9s10uA/giphy.gif" width="150px" height="150px" >
+
+<<img src="https://media.giphy.com/media/3oKIPyahvBic9s10uA/giphy-downsized-large.gif" width="150px" height="150px" >
 <img src="https://media.giphy.com/media/1zkMcZpLsOub1sBkqv/giphy.gif" width="150px" height="150px" >
 <img src="https://media.giphy.com/media/2bVYAlQiD7TPwDg1Yb/giphy.gif" width="150px" height="150px" >-->
 
