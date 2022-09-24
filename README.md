@@ -82,7 +82,7 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 
 <img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="150px"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="150px"><img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="150px"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="150px"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="150px">
 
-<img src="https://media.giphy.com/media/3oz8xxXI5nS5sCYjXG/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/xTiTngSz6NXoUdNfVK/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/3ohhwHUaQuczKTVuog/giphy.gif" width="150px" height="150px" ><img src="https://media.giphy.com/media/2FMZ918Q5JX8Y/giphy.gif" width="150px" height="150px" >
+<img src="https://media.giphy.com/media/3oz8xxXI5nS5sCYjXG/giphy.gif" width="150px" height="150px" > <img src="https://media.giphy.com/media/xTiTngSz6NXoUdNfVK/giphy.gif" width="150px" height="150px" > <img src="https://media.giphy.com/media/3ohhwHUaQuczKTVuog/giphy.gif" width="150px" height="150px" > <img src="https://media.giphy.com/media/2FMZ918Q5JX8Y/giphy.gif" width="150px" height="150px" > <img src="icons/Data-Visualizations-using-Python-and-Seaborn.jpg" width="300px" height="150" >
 
 <!--
 <<img src="https://media.giphy.com/media/3oKIPyahvBic9s10uA/giphy-downsized-large.gif" width="150px" height="150px">
