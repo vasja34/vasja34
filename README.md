@@ -64,7 +64,7 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
   <img src="icons/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>
 </div>
 
-## Just Gifs 
+## I like to visualize numbers and concepts... 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
   <img src="https://media.giphy.com/media/xT9Igzn9iOlDAaNtUA/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
