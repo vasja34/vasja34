@@ -56,7 +56,7 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
   <img src="icons/matlab-original.svg" title="Matlab" alt="Matlab" width="60" height="60"/> 
   <img src="icons/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> 
   <img src="icons/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
-  <img src="icons/Scikit_learn_small.png" title="Scikit_learn" alt="Scikit_learn" width="60" height="60"/> 
+  <img src="icons/Scikit_learn_small.png" title="Scikit_learn" alt="Scikit_learn" width="120" height="60"/> 
   <img src="icons/r-original.svg" title="R" alt="R" width="60" height="60"/> 
   <img src="icons/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/> 
   <img src="icons/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> 
