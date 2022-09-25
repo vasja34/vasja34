@@ -35,6 +35,7 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 
 - I speak, read and write in Hebrew, English, and Russian
 
+              
 
 ## Some of My Works
 
@@ -108,4 +109,6 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 <a href="https://github.com/vasja34" target="_blank"><img src="https://img.shields.io/badge/Github-Vasja34-green?style=for-the-badge&logo=github"></a>
 
 <a href="mailto:vasja34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-vasja34@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vadim-moldavsky" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/vadim-moldavsky?trk=profile-badge">LinkedIn: Vadim Moldavsky</a></div>
 
