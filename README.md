@@ -40,12 +40,12 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[Chat-Rooms-Project](https://github.com/vasja34/Chat-Rooms-Project)_            | Chat Rooms is an asynchronous TCP/IP app based on the PySimpleGUI framework           |
-| _[Python-Visualization](https://github.com/vasja34/Python-Visualization)_                          | A Python Visualization Tutorials & Demos: Matplotlib, Seaborn, Bokeh   |
-| _[Python-Roadmap](https://github.com/vasja34/Python-Roadmap)_                          | The Best Python frameworks, libraries, software and resources     |
-| _[Stopwatch-Demo](https://github.com/vasja34/Stopwatch-Demo)_                          | The simple application of stopwatch with lap button     |
-| _[YouTube-Downloader](https://github.com/vasja34/YouTube-Downloader)_                    | YouTube Video Downloader.                                                              | 
-| _[Scikit-Notebooks](https://github.com/vasja34/Scikit-Notebooks)_                          | An overview of how to use scikit-learn                       |
+| _[Chat-Rooms-Project](https://github.com/vasja34/Chat-Rooms-Project)_          | Chat Rooms is an asynchronous TCP/IP app based on the PySimpleGUI framework           |
+| _[Python-Visualization](https://github.com/vasja34/Python-Visualization)_      | A Python Visualization Tutorials & Demos: Matplotlib, Seaborn, Bokeh   |
+| _[Python-Roadmap](https://github.com/vasja34/Python-Roadmap)_                  | The Best Python frameworks, libraries, software and resources     |
+| _[Stopwatch-Demo](https://github.com/vasja34/Stopwatch-Demo)_                  | The simple application of stopwatch with lap button     |
+| _[YouTube-Downloader](https://github.com/vasja34/YouTube-Downloader)_          | YouTube Video Downloader.                                                                 | 
+| _[Scikit-Notebooks](https://github.com/vasja34/Scikit-Notebooks)_              | An overview of how to use scikit-learn                       |
 <!--| _[Python-in-Science-and-Engineering](https://github.com/vasja34/Python-in-Science-and-Engineering)_                    | A collection of examples of using python in the kinds of scientific and engineering computations                     |
  | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           |  -->
 
@@ -53,15 +53,17 @@ Many-Objective Optimizations, Evolutionary Programming, Self-Programmable Neural
 
 ## Languages and Tools
 <div>
-  <img src="icons/matlab-original.svg" title="Matlab" alt="Matlab" width="60" height="60"/>
-  <img src="icons/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
-  <img src="icons/r-original.svg" title="R" alt="R" width="60" height="60"/>
-  <img src="icons/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/>
-  <img src="icons/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>
+  <img src="icons/matlab-original.svg" title="Matlab" alt="Matlab" width="60" height="60"/> 
+  <img src="icons/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> 
+  <img src="icons/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
+  <img src="icons/Scikit_learn_small.png" title="Scikit_learn" alt="Scikit_learn" width="60" height="60"/> 
+  <img src="icons/r-original.svg" title="R" alt="R" width="60" height="60"/> 
+  <img src="icons/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/> 
+  <img src="icons/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> 
   <img src="icons/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/> <!--&nbsp;-->
-  <img src="icons/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="60" height="60"/>
-  <img src="icons/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/>
-  <img src="icons/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>
+  <img src="icons/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/> 
+  <img src="icons/qt-original.svg" title="Qt6" alt="Qt6" width="60" height="60"/> 
+  <img src="icons/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/> 
 </div>
 
 ## I like to visualize numbers and concepts... 
